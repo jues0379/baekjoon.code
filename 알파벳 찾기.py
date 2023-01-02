@@ -10,4 +10,4 @@ for i in abc:
             cnt += 1
             break
     if cnt == 0:
-        print("-1 ", end=" ")
+        print("-1", end=" ")
